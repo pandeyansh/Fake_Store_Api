@@ -1,0 +1,30 @@
+.heading {
+    text-align: center;
+}
+#cards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.card {
+    padding: 1.5em;
+    text-align: center;
+    width: 23%;
+    margin-bottom: 2em;
+}
+.t1 {
+    font-size: 1.3rem;
+}
+.d1 {
+    font-size: 1rem;
+}
+.images {
+    width: 80%;
+}
+.c1,
+.p1 {
+    font-weight: bold;
+    margin: 1em;
+    font-size: 1.2rem;
+    text-transform: capitalize;
+}
